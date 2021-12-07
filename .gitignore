@@ -6,3 +6,6 @@
 
 # Local History for Visual Studio Code
 .history/
+
+Project/target/
+Project/target/*
