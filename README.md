@@ -41,3 +41,4 @@ Dokumentation
 ## Bibliotheken
 
 - Wiring Pi
+- MRFC-Bibliothek für C (https://github.com/paulvha/rfid-rc522)
