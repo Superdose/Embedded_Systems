@@ -47,4 +47,4 @@ Dokumentation
 
 ## Kompilierung
 
-- gcc in Linux -> "gcc -o ../target/run.sh main.c ../libs/*.c"
+- gcc in Linux -> "gcc -o ../target/run.sh main.c ../libs/*.c" (ausführen in "src" Ordner; eventuell muss "target" Ordner extra erstellt werden)
