@@ -23,3 +23,10 @@ RFID auslesen und in Konsole ausgeben, ob RFID akzeptiert wird (+ Daten ausgeben
 Dokumentation
 - Inbetriebnahme
 - Quellen
+
+## Idee Umsetzung
+
+- Grüne/Rote LED wenn RFID-Chip akzeptiert/nicht akzeptiert
+- Konsoleneingabe: "Chip beschreiben/auslesen"
+- beschreiben nur mit PW-Eingabe
+- 
