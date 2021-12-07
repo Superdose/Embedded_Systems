@@ -27,6 +27,17 @@ Dokumentation
 ## Idee Umsetzung
 
 - Grüne/Rote LED wenn RFID-Chip akzeptiert/nicht akzeptiert
+- Buzzer
 - Konsoleneingabe: "Chip beschreiben/auslesen"
 - beschreiben nur mit PW-Eingabe
-- 
+- Datenbank-Emulation als Array (oder Extra-Datei)
+
+- Zusatzideen (Log, PWM - Motor oder RGB-LED, 
+
+## Umsetzung
+
+1. RFID-Leser löten
+
+## Bibliotheken
+
+- Wiring Pi
