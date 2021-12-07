@@ -37,8 +37,9 @@ Dokumentation
 ## Umsetzung
 
 1. RFID-Leser löten
+2. SPI (http://www.netzmafia.de/skripten/hardware/RasPi/RasPi_SPI.html)
 
 ## Bibliotheken
 
-- Wiring Pi
+- Pigpio (Wiring Pi ist deprecated): hat SPI-Wrapper Funktionen
 - MRFC-Bibliothek für C (https://github.com/paulvha/rfid-rc522)
