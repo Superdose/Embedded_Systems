@@ -43,3 +43,4 @@ Dokumentation
 
 - Pigpio (Wiring Pi ist deprecated): hat SPI-Wrapper Funktionen
 - MRFC-Bibliothek für C (https://github.com/paulvha/rfid-rc522)
+- Logging (https://github.com/rxi/log.c)
