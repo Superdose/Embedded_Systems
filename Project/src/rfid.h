@@ -1,7 +1,12 @@
 #import <stdio.h>
 #import <stdlib.h>
-#import <pigpio.h>
+#import <bcm2835.h>
 
+#define MISO 21
+#define MOSI 19
+#define SCLK 23
+#define CE0 24
+#define CE1 26
 
 #define REG_CMD 0x01
 #define REG_TMODE 0x2A
@@ -28,7 +33,7 @@
 /* https://github.com/mxgxw/MFRC522-python/blob/master/MFRC522.py */
 
 void rfid_write(char addr, char val);
-void rfid_read(char addr);
+char rfid_read(char addr);
 void rfid_reset();
 int rfid_init();
 void antenna_on();
@@ -37,23 +42,8 @@ void antenna_on();
 int rfid_scan();
 
 
-/* Initialisation */
-
-// Open SpiHandle (dev='/dev/spidev0.0', spd=1000000)
-
-// Write: addr: CommandReg 0x01                 | val: SoftReset 0x0F
-// Write: addr: TModeReg (Timer Settings) 0x2A  | val: 0x8D
-// Write: addr: TPrescalerReg                   | val: 0x3E
-// Write: addr: TReloadRegL                     | val: 30
-// Write: addr: TReloadRegH                     | val: 0
-// Write: addr: TxAutoReg                       | val: 0x40
-// Write: addr: ModeReg                         | val: 0x3D 
 
 
-
-/* Antenna on */
-
-// Read REG_TXCONTROL
 
 
 
