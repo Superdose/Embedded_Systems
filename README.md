@@ -41,8 +41,8 @@ Dokumentation
 
 ## Bibliotheken
 
-- Pigpio (Wiring Pi ist deprecated): hat SPI-Wrapper Funktionen
-- MRFC-Bibliothek für C (https://github.com/paulvha/rfid-rc522)
+- [bcm2835](https://www.airspayce.com/mikem/bcm2835/) - gut dokummentierte C-Bibliothek für RPi mit SPI-Funktionalität
+
 - Logging (https://github.com/rxi/log.c)
 
 ## Kompilierung
