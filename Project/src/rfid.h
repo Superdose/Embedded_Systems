@@ -1,6 +1,6 @@
-#import <stdio.h>
-#import <stdlib.h>
-#import <bcm2835.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <bcm2835.h>
 
 #define MISO 21
 #define MOSI 19
