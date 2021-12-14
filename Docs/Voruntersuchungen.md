@@ -46,13 +46,13 @@
 **Um die Weitere Verwendung im Projekt zu vereinfachen habe ich sie mit UID und anderen Infos die die TagInfo-App von NXP auslesen lässt beschriftet!**
 
 - Karte
-  ![image-20211214224734461](/home/phillipk/Projekte/HTWK/Embedded_Systems/Docs/Voruntersuchungen.assets/image-20211214224734461.png)
+  ![image-20211214224734461](https://raw.githubusercontent.com/Superdose/Embedded_Systems/main/Docs/Voruntersuchungen.assets/image-20211214224734461.png)
   Kompatibler Klon, nicht von NXP hergestellt, UID `8A:08:B1:1A`
 
   
 
 - Schlüsselanhänger
-  ![image-20211214230003159](/home/phillipk/Projekte/HTWK/Embedded_Systems/Docs/Voruntersuchungen.assets/image-20211214230003159.png)
+  ![image-20211214230003159](https://raw.githubusercontent.com/Superdose/Embedded_Systems/main/Docs/Voruntersuchungen.assets/image-20211214230003159.png)
 
 
   Kompatibler Klon, nicht von NXP hergestellt, UID `BA:D2:2D:86`
@@ -61,12 +61,12 @@
 
 - Weitere Klone:
 
-  ![image-20211214230114325](/home/phillipk/Projekte/HTWK/Embedded_Systems/Docs/Voruntersuchungen.assets/image-20211214230114325.png)
+  ![image-20211214230114325](https://raw.githubusercontent.com/Superdose/Embedded_Systems/main/Docs/Voruntersuchungen.assets/image-20211214230114325.png)
   UIDs(Links oben nach rechts unten): `E0:28:55:1B`,`FA:68:05:09`,`FA:72:C0:09`,`FA:67:49:09`
 
 - NXP-Originalkarten:
 
-  ![image-20211214230340374](/home/phillipk/Projekte/HTWK/Embedded_Systems/Docs/Voruntersuchungen.assets/image-20211214230340374.png)
+  ![image-20211214230340374](https://raw.githubusercontent.com/Superdose/Embedded_Systems/main/Docs/Voruntersuchungen.assets/image-20211214230340374.png)
 
   Original NXP-Hardware, MF1S50
   UIDs: `0A:66:6A:43` und `0A:3D:DB:0A`
