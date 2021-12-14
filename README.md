@@ -31,6 +31,7 @@ Dokumentation
 - Konsoleneingabe: "Chip beschreiben/auslesen"
 - beschreiben nur mit PW-Eingabe
 - Datenbank-Emulation als Array (oder Extra-Datei)
+- User/Administrator Trennung -> ein Chip ist ein normaler User, der andere Administrator
 
 - Zusatzideen (Log, PWM - Motor oder RGB-LED, 
 
