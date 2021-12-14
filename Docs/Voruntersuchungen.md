@@ -4,7 +4,7 @@
 
 - VideoCore IV-Basierter SBC, BCM2835, 1 Kern 700 MHz ARMv6.
 - Muss ich mehr Sagen?
-- OS: ``
+- OS: `Raspbian GNU/Linux 11 5.10.63+ #1459 Wed Oct 6 16:40:27 BST 2021 armv6l GNU/Linux`
 - Pinout:![](https://developer-blog.net/wp-content/uploads/2013/09/raspberry-pi-rev2-gpio-pinout.jpg)
 
 ## AZDelivery RFID Kit RC522-Modul:
