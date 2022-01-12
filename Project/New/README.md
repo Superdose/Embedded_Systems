@@ -1,4 +1,6 @@
-## Make als Root/Sudo ausführen (sudo su)
+(oder statt 1. und 2. einfach ``sudo make setup`` und ``sudo make run``)
+
+## 1. Make als Root/Sudo ausführen (sudo su)
 
 ```
 ssh pi@192.168.0.xxx
@@ -12,7 +14,7 @@ make check
 make install
 ```
 
-## Build:
+## 2. Build:
 ```
 g++ MFRC522.cpp main.cpp -std=c++11 -lbcm2835
 ```
